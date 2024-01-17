@@ -1,0 +1,7 @@
+.DS_Store
+*.pdf
+Aufgabe_04/
+
+images/
+!images/pexels-elina-volkova-18945004.jpg
+!images/pexels-elina-volkova-18945000.jpg
